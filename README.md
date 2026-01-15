@@ -35,5 +35,14 @@ Desenvolver uma solução em Excel que permitisse:
 - Acompanhamento de dados por período;
 - Melhor compreensão do fluxo operacional.
 
+  ## 📷 Visualizações do Projeto
+
+### Estrutura da Base de Dados
+![Estrutura da Base](prints/estrutura_base_dados.jpeg)
+
+### Tabela Dinâmica – Visão Geral
+![Tabela Dinâmica](prints/tabela_dinamica_visao_geral.jpeg)
+
+
 ## 📎 Observações
 Os dados apresentados são fictícios e foram adaptados exclusivamente para fins de portfólio, preservando a lógica de um cenário real.
